@@ -6,12 +6,12 @@ A backend application built with Django and Django REST Framework to manage cust
 
 ## Features
 
-- Customer Registration:** Register new customers with automatic calculation of approved loan limits.
-- Loan Eligibility Check:** Evaluate loan eligibility based on credit score, income, and loan parameters.
-- Loan Application:** Process loan applications with approval or rejection logic.
-- REST API:** Clean and well-structured API endpoints for all operations.
-- Dockerized:** Multi-container setup with Django, PostgreSQL, and Redis using Docker Compose.
-- Environment Config:** Secure management of secrets and service URLs via `.env` file.
+- Customer Registration:Register new customers with automatic calculation of approved loan limits.
+- Loan Eligibility Check:Evaluate loan eligibility based on credit score, income, and loan parameters.
+- Loan Application:Process loan applications with approval or rejection logic.
+- REST API:Clean and well-structured API endpoints for all operations.
+- Dockerized:Multi-container setup with Django, PostgreSQL, and Redis using Docker Compose.
+- Environment Config:Secure management of secrets and service URLs via `.env` file.
 
 ---
 
